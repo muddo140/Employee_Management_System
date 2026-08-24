@@ -137,6 +137,19 @@ The application can generate an Excel analytics report containing:
 Database credentials are stored in a `.env` file.
 
 The `.env` file is excluded from Git using `.gitignore`, so sensitive credentials are not uploaded to GitHub.
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Employee
+
+![Add Employee](screenshots/add_employee.png)
+
+### Analytics Dashboard
+
+![Analytics](screenshots/analytics.png)
 
 ## Future Improvements
 
