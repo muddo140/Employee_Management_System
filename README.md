@@ -77,7 +77,7 @@ Employee fields include:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/muddo140/Employee_Management_System.git
 ```
 
 ### 2. Install required packages
