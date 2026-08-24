@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+employee_analytics_report.xlsx
