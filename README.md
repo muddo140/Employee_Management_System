@@ -32,7 +32,6 @@ The application uses MySQL for data storage, Pandas for employee analytics, and 
 
 ## Project Structure
 
-```text
 Employee_Management_System/
 │
 ├── app.py
@@ -41,15 +40,22 @@ Employee_Management_System/
 ├── employee.py
 ├── analytics.py
 ├── utils.py
+├── schema.sql
 ├── requirements.txt
 ├── .env.example
 ├── .gitignore
 └── README.md
-```
 
-## Database
 
-Database name:
+### Database Setup
+
+Open MySQL Workbench and run the `schema.sql` file included in this repository.
+
+It will automatically create:
+
+- `employee_management` database
+- `employee` table
+- All required employee columns
 
 ```text
 employee_management
